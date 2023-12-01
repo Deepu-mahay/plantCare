@@ -92,11 +92,6 @@ const PlantCare = async()=>{
         console.log(error);
     }
     
-    console.log(plantDetail)
-    console.log(detail)
-    setTimeout(() => {   
-         fetchData()
-        }, 5000);
 }
 
     return (
