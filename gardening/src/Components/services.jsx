@@ -39,9 +39,6 @@ console.log(detail)
     //     };
 
      
-        // await setTimeout(() => {
-
-        // }, 7000);
         Navigate('/plantInfo',{state:{data:{diseases:diseases,detail:detail,treatment:treatment,care:care,plantDetail:plantDetail}}}) 
     //         try {
     //         const response = await axios.request(options)
